@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Master's Student at the Max-Planck-Institute for Astronomy Heidelberg (MPIA) working on massive star-formation. I am interested in the dynamics of molecular gas and filamentary structures.
 <!--
 **JanESchneider/JanESchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
