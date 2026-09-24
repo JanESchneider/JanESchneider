@@ -2,7 +2,7 @@ Hi! I'm Jan and I am a first year doctoral student in astrophysics at Kiel Unive
 
 ### Currently working on:
 - Water ice in dust grains inside protoplanetary disks.
-- Dipole Approximation of dust grains using DDSCAT.
+- Dipole-approximation of dust grains using DDSCAT.
 
 ### My tools and (also other/private) projects:
 - **Season-Sim**: Very simple Python-based interactive tool to visualize the Earth's orbit around the Sun and how the seasons come to be.
