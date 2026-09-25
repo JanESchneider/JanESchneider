@@ -5,5 +5,4 @@ Hi! I'm Jan and I am a first year doctoral student in astrophysics at Kiel Unive
 - Dipole-approximation of dust grains using DDSCAT.
 
 ### My tools and (also other/private) projects:
-- **Season-Sim**: Very simple Python-based interactive tool to visualize the Earth's orbit around the Sun and how the seasons come to be.
-- **FilaFlows**: Python-package from my Master's thesis work focusing on tools in massive star-formation and filamentary accretion flows (currently outdated).
+- **Season-Sim**: Very simple Python-based interactive tool to visualize the Earth's orbit around the Sun and how the seasons come to be
