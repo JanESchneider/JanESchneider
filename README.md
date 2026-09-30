@@ -4,8 +4,6 @@ I'm a first-year doctoral researcher in Astrophysics at Kiel University, Germany
 
 My current research focuses on planet formation, particularly on the optical properties of water-ice and silicate dust grains in protoplanetary disks.
 
----
-
 ## Currently working on
 
 - **Water ice in dust grains** inside protoplanetary disks
