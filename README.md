@@ -1,4 +1,4 @@
-# Hi, I'm Jan! 
+# Hello there!
 
 I'm a first-year doctoral researcher in Astrophysics at Kiel University, Germany. I graduated from Heidelberg University, where I worked in the field of massive star formation.
 
