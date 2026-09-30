@@ -1,4 +1,8 @@
+---
+
 Hi! I'm Jan and I am a first year doctoral student in astrophysics at Kiel University, Germany. I have graduated at Heidelberg University where I worked in the field of massive star-formation. My research now focuses on star- and planet-formation, primarily water-ice and silicate mixtures in protoplanetary disks.
+
+---
 
 ### Currently working on:
 - Water ice in dust grains inside protoplanetary disks.
