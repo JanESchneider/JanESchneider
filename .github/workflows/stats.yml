@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=JanESchneider&layout=compact&langs_count=10&theme=github_dark&hide_border=true&hide=D
+          options: username=JanESchneider&layout=compact&langs_count=10&theme=github_dark&hide_border=true&hide=D,DTrace
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
