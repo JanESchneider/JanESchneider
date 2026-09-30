@@ -1,14 +1,34 @@
----
+# Hi, I'm Jan! 
 
-Hi! I'm Jan and I am a first year doctoral student in astrophysics at Kiel University, Germany. I have graduated at Heidelberg University where I worked in the field of massive star-formation. My research now focuses on star- and planet-formation, primarily water-ice and silicate mixtures in protoplanetary disks.
+I'm a first-year doctoral researcher in Astrophysics at Kiel University, Germany. I graduated from Heidelberg University, where I worked in the field of massive star formation.
 
----
-
-### Currently working on:
-- Water ice in dust grains inside protoplanetary disks.
-- Dipole-approximation of dust grains using DDSCAT.
-
-### My tools and (also other/private) projects:
-- **Season-Sim**: Very simple Python-based interactive tool to visualize the Earth's orbit around the Sun and how the seasons change over the course of the year.
+My current research focuses on planet formation, particularly on the optical properties of water-ice and silicate dust grains in protoplanetary disks.
 
 ---
+
+## Currently working on
+
+- **Water ice in dust grains** inside protoplanetary disks
+- **Discrete Dipole Approximation (DDA)** of dust grains using DDSCAT
+- Optical properties of **water-ice and silicate mixtures**
+- Comparison of numerical dust models with laboratory measurements
+
+## Languages
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
+</p>
+
+## Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+</p>
+
+## Research interests
+
+`Star Formation` · `Planet Formation` · `Protoplanetary Disks`
