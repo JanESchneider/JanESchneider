@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm a first-year doctoral researcher in Astrophysics at Kiel University, Germany. I graduated from Heidelberg University, where I worked in the field of massive star formation.
+I'm a first-year doctoral researcher in astrophysics at Kiel University, Germany. I graduated from Heidelberg, where I worked in the field of massive star formation at the Max Planck Institute for Astronomy (MPIA) during both my Bachelor's and Master's Theses.
 
 My current research focuses on planet formation, particularly on the optical properties of water-ice and silicate dust grains in protoplanetary disks.
 
